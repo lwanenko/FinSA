@@ -1,0 +1,2 @@
+# FinSA
+Financial Sentiment Analysis
